@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/>
+  <a href="https://www.linkedin.com/in/olivier-boeren-39a4a316b/"> <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100"/> </a>
 </div>
 
 # 
